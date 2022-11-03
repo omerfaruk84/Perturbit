@@ -1,0 +1,12 @@
+sklearn
+matplotlib
+mpld3
+numpy
+pandas
+tkinter
+seaborn
+pymde
+hdbscan
+gseapy
+umap
+scipy
